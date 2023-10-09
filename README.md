@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Mvoula</h1>
-<h3 align="center">my name is David Mvoula student passionate about web and mobile development 🌐📱 and I'm currently training at EFREI PARIS in the first year of BTS SIO . About me , I'm curious sometimes too much even 😂😂 , I like to discover and try new technos all the time 📚✨ and finally I'm always driven by the desire to go as far as possible 🌟🚀.</h3>
+<h3 align="center">Student passionate about web and mobile development 🌐📱 and I'm currently training at EFREI PARIS in the first year of BTS SIO . About me , I'm curious sometimes too much even 😂😂 , I like to discover and try new technos all the time 📚✨ and finally I'm always driven by the desire to go as far as possible 🌟🚀.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmv242&label=Profile%20views&color=0e75b6&style=flat" alt="dmv242" /> </p>
 
