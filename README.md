@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Mvoula</h1>
-<h3 align="center">A passionnate student in France</h3>
+<h3 align="center">je m'appellle David Mvoula étudiant passionné de développement web et mobile 🌐📱 et je suis actuellement en formation à l'EFREI PARIS en première année de BTS SIO . A propos de moi , je suis curieux des fois trop même 😂😂, j'aime découvrir et essayer des nouvelles technos tout le temps 📚✨ et enfin je suis toujours animé par l'envie d'aller le plus loin possible 🌟🚀 .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmv242&label=Profile%20views&color=0e75b6&style=flat" alt="dmv242" /> </p>
 
