@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Mvoula</h1>
-<h3 align="center">A passionnate studend in France</h3>
+<h3 align="center">A passionnate student in France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmv242&label=Profile%20views&color=0e75b6&style=flat" alt="dmv242" /> </p>
 
