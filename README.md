@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student passionate about web and mobile development 🌐📱 and I'm currently training at EFREI PARIS in the first year of BTS SIO . About me , I'm curious sometimes too much even 😂😂 , I like to discover and try new technos all the time 📚✨ and finally I'm always driven by the desire to go as far as possible 🌟🚀.<br>
+Student passionate about web and mobile development 🌐📱. About me , I'm curious sometimes too much even 😂😂 , I like to discover and try new technos all the time 📚✨ and finally I'm always driven by the desire to go as far as possible 🌟🚀.<br>
 
 
 ## 🌐 Socials:
