@@ -1,117 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>About Me - Retro Style</title>
-  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      background: #000;
-      color: #00FF00;
-      font-family: 'Press Start 2P', monospace;
-      font-size: 12px;
-      line-height: 1.6;
-    }
+<h1 align="center">Hi 👋, I'm David MVOULA</h1>
+<h3 align="center">Software Engineer student</h3>
 
-    .container {
-      padding: 30px;
-      max-width: 900px;
-      margin: 0 auto;
-      border: 2px solid #00FF00;
-      box-shadow: 0 0 20px #00FF00;
-      background: #111;
-    }
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmv242&label=Profile%20views&color=0e75b6&style=flat" alt="dmv242" /> </p>
 
-    h1, h2, h3 {
-      color: #FF00FF;
-      text-shadow: 0 0 5px #FF00FF;
-    }
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmv242" alt="dmv242" /></a> </p>
 
-    a {
-      color: #00FFFF;
-      text-decoration: none;
-    }
+- 🌱 I’m currently learning **Python And AI**
 
-    a:hover {
-      text-decoration: underline;
-      color: #FF00FF;
-    }
+- 📫 How to reach me **david.mvoula@outlook.fr**
 
-    .badge-container {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      margin-top: 15px;
-    }
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/david-mvoula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-mvoula" height="30" width="40" /></a>
+</p>
 
-    .badge-container img {
-      height: 25px;
-    }
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-    .section {
-      margin-bottom: 30px;
-    }
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmv242&show_icons=true&locale=en&layout=compact" alt="dmv242" /></p>
 
-    .stats {
-      background: #222;
-      padding: 10px;
-      border: 1px solid #00FF00;
-      box-shadow: 0 0 10px #00FF00;
-    }
-
-    footer {
-      text-align: center;
-      padding: 10px;
-      border-top: 1px dashed #00FF00;
-      margin-top: 40px;
-      font-size: 10px;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>💾 About Me</h1>
-    <div class="section">
-      <p>Hi! I'm a passionate student in web & mobile development. 🚀</p>
-      <p>I’m curious (sometimes too much 😂), love discovering new technologies 📚✨, and always driven by the desire to go as far as possible! 🌟</p>
-    </div>
-
-    <h2>🌐 Socials</h2>
-    <div class="section">
-      <a href="https://linkedin.com/in/david-mvoula" target="_blank">🔗 LinkedIn</a>
-    </div>
-
-    <h2>💻 Tech Stack</h2>
-    <div class="section badge-container">
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" alt="JS">
-      <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python">
-      <img src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white" alt="Django">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React">
-      <img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="Tailwind">
-      <!-- Tu peux ajouter toutes les autres techs de ton stack ici -->
-    </div>
-
-    <h2>📊 GitHub Stats</h2>
-    <div class="section stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=DMV242&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DMV242&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak"><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMV242&theme=vision-friendly-dark&hide_border=false&layout=compact" alt="Top Langs">
-    </div>
-
-    <h2>🏆 GitHub Trophies</h2>
-    <div class="section">
-      <img src="https://github-profile-trophy.vercel.app/?username=DMV242&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="Trophies">
-    </div>
-
-    <footer>
-      ⌨️ Made with ❤️ by DMV242 | Retro Style Design | Inspired by 80s Tech
-    </footer>
-  </div>
-</body>
-</html>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmv242&show_icons=true&locale=en" alt="dmv242" /></p>
